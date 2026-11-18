@@ -1,3 +1,22 @@
+Multi-part series branch https://github.com/we-promise/sure/tree/refactor/ai-plumbing
+#4440 plan documents 
+2a #4773 merged main
+2b #4774 merged main
+2c #4775 merged branch
+2d #4765 merged branch
+#3422 merged branch
+2f #4892 under review & cleanup
+3a developed, will push after stage 2 is merged. milestone to merge with main. stacked PR from here on
+3b
+3c
+4 
+5
+6
+7
+8
+9
+
+
 [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure)
 [![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL)
 [![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask)
