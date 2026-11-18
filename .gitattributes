@@ -16,3 +16,5 @@ bin/* text eol=lf
 *.sh text eol=lf
 *.rb text eol=lf
 .devcontainer/.bashrc text eol=lf
+
+README.md merge=ours
